@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Alfa+Slab+One&family=Bangers&family=Barlow+Condensed:wght@500&family=Bungee+Shade&family=Cinzel:wght@400;500&family=Koulen&family=Mate+SC&family=Merriweather&family=PT+Sans:wght@700&family=Righteous&display=swap');
+
+.pHead{
+    padding: 2% 5%;
+    text-align: center;
+    background-color: rgb(24, 24, 24);
+    color: antiquewhite;
+}
+.Pprogram{
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    font-family: 'Bungee Shade', cursive;
+}
+.Programs{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.Program{
+    background-color: rgb(124, 124, 124);
+    margin: 2%;
+    padding: 5%;
+    border-radius: 2px;
+    color: black;
+    box-shadow: 5px 10px 18px rgb(80, 80, 80);
+}
+.Pimg{
+    text-align:left;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: rgb(248, 248, 248);
+    height: 14.5vh;
+    font-size: smaller;
+    text-align: center;
+}
+.pimg{
+    width: 20%;
+    height: max-content;
+}
+.joinFlex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.nextImg{
+    width: 20%;
+    align-self: center;
+}
+.nextImg img{
+    width: 50%;
+}
+.checkOut{
+    margin-right: -20%;
+    color: rgb(248, 248, 248);
+    font-family: 'Merriweather', serif;
+}

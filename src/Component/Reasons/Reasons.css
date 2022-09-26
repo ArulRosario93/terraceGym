@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Alfa+Slab+One&family=Bangers&family=Barlow+Condensed:wght@500&family=Bungee+Shade&family=Cinzel:wght@400;500&family=Koulen&family=Mate+SC&family=Merriweather&family=PT+Sans:wght@700&family=Philosopher:wght@700&family=Righteous&display=swap');
+
+.Reasons{
+    display: flex;
+    flex-direction: row;
+    padding: 5% 5%;
+    justify-content: space-around;
+}
+.left-r{
+    text-align: center;
+    flex: 1;
+    align-self: center;
+}
+.someReasons{
+    flex: 1;
+    padding: 0% 1%;
+}
+.callitWhy{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1%;
+    margin-top: -2%;
+}
+.tick{
+    width: 10%;
+}
+.tick img{
+    width: 50%;
+    align-self: center;
+}
+.partners{
+    margin-top: -3%;
+}
+.partners .logos{
+    display: flex;
+    flex-direction: row;
+}
+.partners .logos img{
+    width: 7%;
+    margin-right: 3%;
+}

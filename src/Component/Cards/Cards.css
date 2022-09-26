@@ -1,0 +1,43 @@
+.Cards{
+    background-color: rgb(100, 255, 203);
+    text-align: center;
+    padding: 3% 5%;
+}
+.Cards h2{
+    font-family: 'Philosopher', sans-serif;
+    font-size: xx-large;
+    padding-bottom: 1%;
+}
+.letGo{
+    display: flex;
+    gap: 4%;
+    justify-content: center;
+    flex-direction: row;
+}
+.yupPlans{
+    display: flex;
+    flex-direction: row;
+}
+.Card{
+    padding: 4% 2%;
+    text-align: center;
+    background-color: rgb(255, 226, 61);
+    border-radius: 5px;
+    /* box-shadow: 5px 10px 8px #888888; */
+    box-shadow: 5px 10px 18px #888888;
+
+}
+.flexy{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.imgOfTick img{
+    width: 50%;
+}
+.btn{
+    padding: 3% 5%;
+    background-color: rgb(118, 255, 209);
+    text-align: center;
+    border-radius: 10px;
+}
